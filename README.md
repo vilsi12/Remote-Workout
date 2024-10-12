@@ -2,7 +2,8 @@
 Your Personal Coach: Perfect Poses, Anytime, Anywhere.
 
 
-
+## Objective
+To create an interactive fitness app that uses AI to monitor yoga poses and exercises, automatically progressing to the next asana once the current one is completed. This application aims to make home workouts more engaging, accurate, and personalized.
 
 ![Screenshot 2024-10-13 005407](https://github.com/user-attachments/assets/b439dc5d-5b91-4354-bf7f-60b32ef37ed2)
 
@@ -48,9 +49,6 @@ Contributing
 
 We welcome contributions! Please see the CONTRIBUTING.md for guidelines on how to get involved.
 
-
-## **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## **Acknowledgments**
 Open Source Libraries: Special thanks to TensorFlow, ML Kit, and Firebase for providing robust tools and resources.
