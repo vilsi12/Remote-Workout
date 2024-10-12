@@ -43,7 +43,7 @@ Contributing
 - Automated Tracking: Automatic repetition counters track and monitor progress, allowing the app to advance to the next exercise when needed.
 - Customized Workout Plans: Users can choose from curated workout plans that guide them through structured exercise routines.
 - Additional Tools: Includes a BMI calculator, calendar, and reminders to help users stay on track with their fitness goals.
-- 
+
 ![Screenshot 2024-10-13 005650](https://github.com/user-attachments/assets/6e7385a8-c0fd-4db4-89c4-2d320a10dde2)
 
 We welcome contributions! Please see the CONTRIBUTING.md for guidelines on how to get involved.
